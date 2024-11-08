@@ -1,0 +1,1058 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Brady",
+      "surnames": "Gutierrez Cornejo",
+      "title": "Analista Desarrollador de Software",
+      "description": "Me adapta fácilmente a cualquier ambiente de desarrollo.\nMe gustan los retos que me exijan a dar soluciones efectivas a problemas complejos.\nMe encanta aprender y aplicar las nuevas tendencias digitales adaptándolas a los requerimientos.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/07/769de532-b5ea-4b1a-8773-f5c4b57b33d2_1686113827135.jpg",
+        "alt": "1686113827135.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJX4BV6MsTLZARc6T89JKkFYA)",
+        "country": "Ecuador",
+        "region": "Guayas",
+        "municipality": "Guayaquil"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/brady-guti%C3%A9rrez-48828011b/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Fradyzz"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "CentralFile - Grupo Calderon",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/05/bfc2347d-ebb7-40b9-9fe3-3a68769fc1f1_logos-cf-03.png",
+            "alt": "logos-CF-03.png"
+          },
+          "URL": "https://central-file.com"
+        },
+        "roles": [
+          {
+            "name": "Analista Desarrollador de Software",
+            "startDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Migración Web de sistema de Gestión Documental SISAD.\nDesarrollo e implementación de soluciones adaptadas a requerimientos de distintas empresas.\nConstrucción de aplicaciones y sistemas orientados al ambiente web."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Azure Functions",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Casjuca & Delta Delfini",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/05/c415ddca-ad6b-41d5-852d-ae7f452ffd67_download.png",
+            "alt": "download.png"
+          },
+          "URL": "http://www.deltadelfini.com/wpd/"
+        },
+        "roles": [
+          {
+            "name": "Asistente Help Desk",
+            "startDate": "2021-12-01",
+            "finishDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "Ofrecer servicios de soporte técnico de cómputo y equipos informáticos a la empresa Casjuca.\nOfrecer servicios de soporte técnico de cómputo y equipos informáticos a la empresa Delta Delfini.\nBrindar soporte y mantenimiento de equipos informáticos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TELENEWS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/05/061c3645-655d-4dc2-8df4-0d4cff8c3121_1632416589955.jpg",
+            "alt": "1632416589955.jpg"
+          },
+          "URL": "https://www.telenews.com.ec/"
+        },
+        "roles": [
+          {
+            "name": "Asesor Telefónico",
+            "startDate": "2017-05-01",
+            "finishDate": "2017-08-01",
+            "challenges": [
+              {
+                "description": "Ventas telefónicas de servicios de Claro.\nLlamadas informativas a clientes de Claro.\nCumplimiento de meta de ventas por mes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GEA ECUADOR",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/05/73069ede-bc2a-4352-8d36-e91b68a940f8_1669146600378.jpg",
+            "alt": "1669146600378.jpg"
+          },
+          "URL": "https://www.geainternacional.com/"
+        },
+        "roles": [
+          {
+            "name": "Asesor Telefónico",
+            "startDate": "2017-01-01",
+            "finishDate": "2017-04-01",
+            "challenges": [
+              {
+                "description": "Ventas telefónicas de asistencias de servicios varios.\nLlamadas informativas a clientes de entidades públicas y privadas sobre servicios de asistencias.\nCompletar cierta meta de ventas por mes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Papelería Bazar Novedades JYB"
+        },
+        "roles": [
+          {
+            "name": "Novedades JYB Bazar-Papelería",
+            "startDate": "2015-10-01",
+            "finishDate": "2016-10-01",
+            "challenges": [
+              {
+                "description": "Ventas detrás de mostrador de productos varios.\nGestión de local comercial de ventas al por menor.\nActividades básicas de inventariado y emperchar productos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ecuasal",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/05/4a2cbf06-6eaf-43ea-be72-2d8c674c0b8e_1519880180778.jpg",
+            "alt": "1519880180778.jpg"
+          },
+          "URL": "http://www.ecuasal.com/"
+        },
+        "roles": [
+          {
+            "name": "Pasantías Ayudante en Taller de electrónica",
+            "startDate": "2014-09-01",
+            "finishDate": "2014-10-01",
+            "challenges": [
+              {
+                "description": "Mantenimiento y cuidado de impresoras.\nMantenimiento de máquinas electrónicas de procesamiento y empacado.\nReparación de equipos de oficina (UPC, impresoras, computadoras, etc.)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Arduino",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Entity",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PyCharm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Azure Devops",
+        "startDate": "2021-06-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Uso e implementación de aplicaciones de Azure tales como:\n-Azure SQL Server\n-Azure Blob Storage\n-Azure Kubernetes\n-Azure Computer Vision\n-Azure Cognitive Services",
+          "URL": "https://learn.microsoft.com/es-mx/users/bradog/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/04/65773635-16e2-4337-b08c-b313ad0b7cf6_screenshot-2023-06-0.png",
+            "alt": "Screenshot 2023-06-04 175045.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure Functions",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachiller en Electrónica de consumo",
+        "startDate": "2009-03-01",
+        "institution": {
+          "name": "Colegio Domingo Comín",
+          "description": "Habilidades de reparación y mantenimiento de equipos electrónicos e informáticos.\nConocimientos en cableado estructurado y conexiones de red.\nConocimientos de circuitos eléctricos y electrónicos.",
+          "URL": "https://www.domingocomin.edu.ec/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/05/c7db7bb5-81b3-4718-90b0-d5fa17a485b7_19934_227189906403_2.jpg",
+            "alt": "19934_227189906403_295859_n.jpg"
+          }
+        },
+        "finishDate": "2015-04-01",
+        "linkedCompetences": [
+          {
+            "name": "Arduino",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Clean Architecture Microservices con ASP.NET 6 y RabbitMQ",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Arquitectura DDD (Domain Driven Design).\nTecnica CQRS (Command Query Responsibility Segregation) de lectura y escritura de datos.\nEvent Driven Architecture manejo de eventos para comunicación entre Microservicios.",
+          "URL": "https://www.udemy.com/certificate/UC-788bf2d2-dc15-47af-b1fc-873096961dec/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/06/376ab445-9852-4774-8bf0-a60d82b61a96_4505602_fe30_2.jpg",
+            "alt": "4505602_fe30_2.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": ".Net Core",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          },
+          {
+            "name": "RabbitMQ",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Desarrollo Web con HMTL, CSS y Bootstrap 4!",
+        "startDate": "2019-02-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Crear un sitio web utilizando HTML5 y CSS3\nDominar HTML\nDominar CSS\nTrabajar con Visual Studio Code\nConceptos claves de Bootstrap 4",
+          "URL": "https://www.udemy.com/course/curso-html5-css3/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/06/2fa8a684-40bf-4cba-a8cd-98bc2321d5f9_1576314_7d44_3.jpg",
+            "alt": "1576314_7d44_3.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "FlexBox",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Git, GitHub y GitLab: Uso de repositorios de código",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Manejo de versionamiento de código y repositorios colaborativos.\nUso de Git, GitHub y GitLab.\nEntendimiento en profundidad del funcionamiento de los repositorios de código dentro de integración continua.",
+          "URL": "https://www.udemy.com/certificate/UC-cb60e958-18d4-4616-8274-6b5621e61d63/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/04/a6ed3cb4-5761-4571-8acf-bed750dd1b12_screenshot-2023-06-0.png",
+            "alt": "Screenshot 2023-06-04 175045.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "GitLab",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "II CONGRESO INTERNACIONAL TECNOLOGÍA EN INFORMÁTICA",
+        "startDate": "2019-06-01",
+        "institution": {
+          "name": "Instituto Tecnológico Guayaquil",
+          "description": "Desarrollo, análisis de software y aplicaciones.\nLas TIC´s.\nRedes y seguridad.\nSeguridad informática.\nInteligencia artificial.\nAutomatización, Mecatrónica y Robótica\nIngeniería de Software.\nCloud computing\nRedes inalámbricas y móviles.\nComputación evolutiva.\nInteracción hombre – maquina\nBig Data & Analytics\nSmart cities\nBlockchain\nEthical hacking\nDesarrollo de video juegos",
+          "URL": "https://cidecuador.org/congreso/ii-congreso-internacional-de-tecnologia-en-informatica/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/06/55577a6d-d5a4-4b8b-8ee5-5f0e549c8fb9_listado.jpg",
+            "alt": "listado.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería de Sistemas Mención Telemática",
+        "startDate": "2015-04-01",
+        "institution": {
+          "name": "Universidad Politécnica Salesiana",
+          "description": "Dar soluciones informáticas que involucran el desarrollo de software, uso de inteligencia artificial y propuestas de infraestructura tecnológica que implican hardware, software y redes de computación. Además, gestionar y crear aplicaciones web y móviles, implantación de Smart Cities, manejo de Internet of Things, Big Data e Industria",
+          "URL": "https://computaciongye.ups.edu.ec/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/05/a4fb66a5-0348-4b83-9d2d-86c346135cab_isotipo-original.png",
+            "alt": "Isotipo Original.png"
+          }
+        },
+        "finishDate": "2016-06-01",
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": "ASP.net",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "Netbeans",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQLServer",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Innovation Practitioner",
+        "startDate": "2024-10-01",
+        "institution": {
+          "name": "Innova T Latam 2024",
+          "description": "Se reconoce la participación destacada en Innova T Latam 2024, el evento líder en innovación y tecnología al acreditado. Este emblema honra su compromiso con la capacitación continua y la innovación tecnológica demostrando su papel como agente de cambio en la evolución del sector.",
+          "URL": "https://www.acreditta.com/credential/703905bc-87cf-493d-986d-2275749c1da9?utm_source=copy&resource_type=badge&resource=703905bc-87cf-493d-986d-2275749c1da9",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/24/9f8bef2a-c5d4-407a-bf47-ba11aa5beb1b_inova.jpg",
+            "alt": "Inova.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Introducción a Entity Framework Core 6 - De Verdad",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Desarrollar aplicaciones de .NET (desktop, web) utilizando Entity Framework Core.\nCrear bases de datos desde código de C# utilizando la técnica de código primero.\nRelaciones entre tablas de bases de datos: Relaciones uno a muchos, relaciones uno a uno, y relaciones muchos a muchos.",
+          "URL": "https://www.udemy.com/certificate/UC-7d2303e3-68c3-4ca5-85f3-09f1c3e86e45/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/06/270ed66c-c4c4-486e-ae46-96602fd9fc8a_1850536_af55_3.jpg",
+            "alt": "1850536_af55_3.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": ".Net Core",
+            "type": "technology"
+          },
+          {
+            "name": "ASP",
+            "type": "technology"
+          },
+          {
+            "name": "ASP.net",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "Entity",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQLServer",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Mastering OCR using Deep Learning and OpenCV-Python",
+        "startDate": "2024-11-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Uso de la librería OpenCV y modelos pre-entrenados en Python.\nManejo de algoritmos y técnicas de extracción de texto:\n-Preprocesado de imágenes\n-Detección de texto en imágenes\n-Reconocedor de texto en imágenes\n-Extracción de texto en imágenes",
+          "URL": "https://www.udemy.com/certificate/UC-ea44f8a9-2021-4ce0-a7cf-6a0dbf736bc2/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/08/46688634-e9c1-4322-a8c1-46a0da9fe3c2_ocr_course_banner.png",
+            "alt": "ocr_course_banner.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "OpenCV",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Máster en .NET 6 Identity, Autenticación y Autorización",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Implementar Identity un sistema completo de identidad que permite manejar todo un sistema de Autenticación y Autorización en NET 6 (NET Core)\nManejo de conceptos como Roles, Usuarios, Sesiones, etc; y su aplicación en un sistema Web o Android.\nAutenticación con servicios externos: Facebook, Twitter, Google, etc.",
+          "URL": "https://www.udemy.com/certificate/UC-283eb6ee-2c36-451b-b007-121fac409fe3/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/04/3e1aa0f6-309f-4a80-8e88-e26a4c67523f_screenshot-2023-06-0.png",
+            "alt": "Screenshot 2023-06-04 175045.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": ".Net Core",
+            "type": "technology"
+          },
+          {
+            "name": "Facebook Ads",
+            "type": "technology"
+          },
+          {
+            "name": "MVC",
+            "type": "technology"
+          },
+          {
+            "name": "Razor",
+            "type": "technology"
+          },
+          {
+            "name": "Twitter Ads",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Prevención de Riesgos laborales",
+        "startDate": "2017-03-01",
+        "institution": {
+          "name": "Tecnológico Espiritu Santo",
+          "description": "Conceptualización de riesgos laborales comunes dentro de una organización.\nControl de posibles accidentes, causas, riesgos y consecuencias.\nPrevención y Protocolos a seguir durante un siniestro laboral.",
+          "URL": "https://getmanfred.com/blog",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/07/e1f7a319-75b7-4530-93ad-d3e6a37610bf_download.png",
+            "alt": "download.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Programación de Android desde cero con Java +40 horas",
+        "startDate": "2020-08-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Crear aplicaciones para android desde cero con Android Studio y las herramientas más profesionales del momento.\nTrabajar en equipo y control de versiones con Git y GitHub.\nAdministración de Bases de Datos para apps y APIs.",
+          "URL": "https://www.udemy.com/certificate/UC-16b4530e-0c37-471c-b502-306e45d0be90/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/06/0226cb26-f93f-46b6-b52e-3264b7add254_1850536_af55_3.jpg",
+            "alt": "1850536_af55_3.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Android SDK",
+            "type": "technology"
+          },
+          {
+            "name": "Android Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "GitLab",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Programming Essentials in Python",
+        "startDate": "2021-04-01",
+        "institution": {
+          "name": "Python Institute",
+          "description": "Codificación de nivel intermedio en el lenguaje Python, incluida la capacidad de diseñar, desarrollar, depurar, ejecutar y refactorizar programas Python de múltiples módulos, así como habilidades y conocimientos relacionados con el análisis y modelado de problemas de la vida real en categorías OOP con el uso de las nociones fundamentales y técnicas disponibles en el enfoque orientado a objetos.",
+          "URL": "https://pythoninstitute.org/pcap",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/06/ab8fd82d-ec21-4d5c-9d3d-6207e41cf56c_61f11f7719dd38007075.png",
+            "alt": "61f11f7719dd3800707549.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "PyCharm",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Tegnología de Desarrollo de Software",
+        "startDate": "2019-06-01",
+        "institution": {
+          "name": "Instituto Tecnológico Superior Guaayquil",
+          "description": "Profesional altamente capacitado y competitivo en el desarrollo de soluciones de tecnología de información y comunicación para satisfacer las necesidades de la sociedad laboral.",
+          "URL": "https://istg.edu.ec/carreras/desarrollo-de-software/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/04/7d8f4623-1e57-4038-bd29-b4bccc8e8dbc_screenshot-2023-06-0.png",
+            "alt": "Screenshot 2023-06-04 175045.png"
+          }
+        },
+        "finishDate": "2022-05-01",
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Android Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "PyCharm",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/brady-guti%C3%A9rrez-48828011b/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Fradyzz",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "fradyzz@hotmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "979328153",
+          "countryCode": "+593"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "Android",
+          "type": "technology"
+        },
+        {
+          "name": "Android Studio",
+          "type": "technology"
+        },
+        {
+          "name": "Autodesk",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Azure Functions",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Gimp",
+          "type": "technology"
+        },
+        {
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "Google Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "Google Maps",
+          "type": "technology"
+        },
+        {
+          "name": "Java",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "Oracle",
+          "type": "technology"
+        },
+        {
+          "name": "PyCharm",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "RabbitMQ",
+          "type": "technology"
+        },
+        {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Amazon SQS",
+          "type": "technology"
+        },
+        {
+          "name": "Apache",
+          "type": "technology"
+        },
+        {
+          "name": "Laravel",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Ruby",
+          "type": "technology"
+        },
+        {
+          "name": "Scrapy",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Basic",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": ".NET",
+        "type": "technology"
+      },
+      {
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "GitLab",
+        "type": "technology"
+      },
+      {
+        "name": "SQLServer",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi empleo ideal es donde tenga la libertad de dar soluciones adaptadas a mis capacidades sin limitarme al uso de nuevas tecnologías, teniendo como respaldo mi inmensa curiosidad y deseo de entender cómo funciona todo para usarlo cuando lo necesite.\nAsí también contar con retos tecnológicos dentro de un equipo que me ayude a descubrir muchas más herramientas que me permitan darle realce a mis proyectos y contribuyan a mi aprendizaje profesional.",
+    "goodPractices": "En los proyectos en los que he trabajado siempre he adoptado la filosofía de construir aplicaciones flexibles que permitan adaptarse a cualquier ambiente con facilidad junto con la ayuda del desarrollo dinámico y la tendencia del uso de la nube como motor para el almacenamiento y manejo de datos."
+  }
+}
