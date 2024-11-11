@@ -29,6 +29,10 @@
       {
         "type": "github",
         "URL": "https://github.com/BradogDev"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/28201186/bradog"
       }
     ]
   },
@@ -894,6 +898,10 @@
         {
           "URL": "https://www.linkedin.com/in/brady-guti%C3%A9rrez-48828011b/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://stackoverflow.com/users/28201186/bradog",
+          "type": "stackoverflow"
         },
         {
           "URL": "https://github.com/BradogDev",
